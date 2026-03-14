@@ -14,7 +14,7 @@
 ### 📫 Connect with me
 
 <p align="center">
-<a href="https://linkedin.com/in/yourprofile">
+<a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/amarnath-reddy-984b92249/)">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -22,7 +22,3 @@
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,flutter,html,css,js,git,vscode" />
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)
-
-![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)
