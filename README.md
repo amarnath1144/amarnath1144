@@ -6,7 +6,7 @@
 ### 🚀 Languages and Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,git,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=python,verilog,c,cpp,vscode,linux" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:youremail@gmail.com">
+<a href="mailto:yeruvaamarnathreddy@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
