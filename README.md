@@ -6,7 +6,7 @@
 ### 🚀 Languages and Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,verilog,c,cpp,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=python,verilog,system verilog,uvm,c,cpp,vscode,linux" />
 </p>
 
 ---
